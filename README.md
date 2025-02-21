@@ -24,7 +24,7 @@
   <i style="font-family: 'Courier New', monospace;">A self-taught Cybersecurity specialist with a passion for hacking systems securely. Currently pursuing an MSc in Cybersecurity & Computer Science Engineering, and always finding creative ways to defend against cyber threats while mastering new tech stacks.</i>
 </p>
 
-<h3 align="center" style="color: #FF007F;">Languages & Tools (Hacker Mode Enabled):</h3>
+<h3 align="center" style="color: #FF007F;">Languages & Tools:</h3>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /></a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a> 
