@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #FF007F; font-family: 'Courier New', monospace;">MSc in Cybersecurity & Computer Science Engineer | Cyberpunk Enthusiast</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=spad-0x&label=Profile%20views&color=00FF41&style=flat" alt="spad-0x" /> 
+  <img src="https://komarev.com/ghpvc/?username=spad-0x&label=Profile%20views&color=008C23&style=flat" alt="spad-0x" /> 
 </p>
 
 <p align="center">
