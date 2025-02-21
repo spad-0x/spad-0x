@@ -42,4 +42,4 @@ I'm a passionate Cybersecurity and Computer Science engineer with a strong focus
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spad-0x&show_icons=true&locale=en" alt="spad-0x" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spad-0x&" alt="spad-0x" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spad-0x" alt="spad-0x" /></p>
