@@ -1,6 +1,9 @@
 <h1 align="center" style="color: #00FF41; font-family: 'Courier New', monospace;">Hello World 👾, I'm Leonardo Spadoni</h1>
 <h3 align="center" style="color: #FF007F; font-family: 'Courier New', monospace;">MSc in Cybersecurity & Computer Science Engineer</h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/spad0x.png" alt="Your Image Badge" />
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/spad0x.png" alt="Your Image Badge" />
+</p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=spad-0x&label=Profile%20views&color=008C23&style=flat" alt="spad-0x" /> 
