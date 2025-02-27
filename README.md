@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #00FF41; font-family: 'Courier New', monospace;">Hello World 👾, I'm Leonardo Spadoni</h1>
+<h1 align="center">Hello World 👾, I'm Leonardo Spadoni</h1>
 <h3 align="center" style="color: #FF007F; font-family: 'Courier New', monospace;">a Computer Science Engineer</h3>
 
 <p align="center"> 
@@ -13,9 +13,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spad-0x&theme=radical" alt="spad-0x" /></a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=00FF41" alt="Twitter" /></a>
-</p>
 
 <h3 align="center" style="color: #FF007F;">Connect with me:</h3>
 <p align="center">
@@ -58,6 +55,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=spad-0x&show_icons=true&locale=en&theme=radical" alt="spad-0x" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spad-0x&theme=radical" alt="spad-0x" />
-</p>
